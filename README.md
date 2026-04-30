@@ -44,13 +44,6 @@ Además, Laracasts ofrece miles de tutoriales en video sobre temas como Laravel,
 También puedes aprender con lecciones prácticas en Laravel Learn, donde crearás proyectos reales desde cero mientras aprendes los fundamentos de PHP.
 
 ---
-
-## Desarrollo con Inteligencia Artificial
-
-La estructura y convenciones de Laravel lo hacen ideal para herramientas de IA como Claude Code, Cursor y GitHub Copilot.
-
-Puedes instalar Laravel Boost para mejorar tu flujo de trabajo con IA:
-
 ```bash
 composer require laravel/boost --dev
 php artisan boost:install
